@@ -1,0 +1,5 @@
+,,CD8,HLA-A,CD4,pNRF2,CD20,ER,Keratin 14,Vimentin,PR,E-cadherin,CD31,PDL1,CD45RO,Keratin19,CD3e,IDO1,SMA,CD11c,GranzymeB,Keratin5,CollagenIV,Podoplanin,CD14,FoxP3,ASCT2,CD45,tp63,CD44,HLA-DR,PD1,ERG,b-catenin1,HER2,CD57,Keratin8,CD163,GATA3,S100A4,CD68,HIF1A,Keratin18,FoxA1,LaminB1,CD227,H2AX,PCNA,Keratin17,CPT1A,CyclinD1,CD34,BAK,PARP,Keratin7,Dnmt1,FAP,Glut1,p53,G6PD,CD15,MMP9,Cytokeratin6,CD11b,Ki67,Pan-Cytokeratin,CD66b
+all,Immune/Stroma,,,,,,,,,,,,,,,,,,,,,,,,,,pos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+all,Stroma,,,,,,,,,,,,,,,,,,,,,,,,,,neg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+all,Tumor,,,,,,,,,,pos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,anypos,,anypos,,,,,,,,,,,,,,,,,,anypos,
+Stroma,Tumor,,,,,,,,,,pos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,anypos,,anypos,,,,,,,,,,,,,,,,,,anypos,
